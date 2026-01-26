@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Figma UI UX Design Advanced",
+    "provider": "Udemy",
+    "issued": "Feb 2024",
+    "hours": 16,
+    "url": "https://www.udemy.com/certificate/UC-a1dc2d7b-28f5-48ee-b8c1-2b159e5990de/",
+    "image": "../photos/figma-advanced.jpg",
+    "skills": ["Figma", "UI Design", "Prototyping"]
+  },
+  {
+    "title": "Microsoft Excel - Excel from Beginner to Advanced 2024",
+    "provider": "Udemy",
+    "issued": "Feb 2024",
+    "hours": 11,
+    "url": "https://www.udemy.com/certificate/UC-74a99d24-3735-4c54-bd6a-f37aa5e27d5c/",
+    "image": "../certificates/excel-advanced.jpg",
+    "skills": ["Excel", "Data Analysis"]
+  },
+  {
+    "title": "Figma UI UX Design Essentials",
+    "provider": "Udemy",
+    "issued": "Nov 2023",
+    "hours": 12,
+    "url": "#",
+    "image": null,
+    "skills": ["Figma", "UI Design"]
+  },
+  {
+    "title": "Unity Certified Associate Game Developer Fundamentals",
+    "provider": "LinkedIn Learning",
+    "issued": "May 2022",
+    "url": "#",
+    "image": null,
+    "skills": ["Unity", "Game Development"]
+  },
+  {
+    "title": "Project Management Skills for Leaders",
+    "provider": "LinkedIn Learning",
+    "issued": "May 2022",
+    "url": "#",
+    "image": null,
+    "skills": ["Project Management"]
+  },
+  {
+    "title": "WordPress 5 Essential Training: Site Administration",
+    "provider": "LinkedIn Learning",
+    "issued": "May 2022",
+    "url": "#",
+    "image": null,
+    "skills": ["WordPress", "Site Administration"]
+  },
+  {
+    "title": "Certificate 7",
+    "provider": "",
+    "issued": "",
+    "url": "#",
+    "image": null,
+    "skills": []
+  },
+  {
+    "title": "Certificate 8",
+    "provider": "",
+    "issued": "",
+    "url": "#",
+    "image": null,
+    "skills": []
+  },
+  {
+    "title": "Certificate 9",
+    "provider": "",
+    "issued": "",
+    "url": "#",
+    "image": null,
+    "skills": []
+  }
+]

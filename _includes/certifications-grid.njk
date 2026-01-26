@@ -1,0 +1,20 @@
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
+  {% for cert in certifications %}
+  <a href="{{ cert.url }}" target="_blank" rel="noopener noreferrer" class="group block rounded-lg border border-slate-200 overflow-hidden bg-white shadow-sm hover:shadow-md transition">
+    <div class="aspect-[4/3] bg-slate-50 flex items-center justify-center overflow-hidden">
+      <img src="{{ cert.image or '../photos/Thumbnail.jpg' }}" alt="{{ cert.title }} thumbnail" class="w-full h-full object-cover group-hover:scale-[1.02] transition"/>
+    </div>
+    <div class="p-4">
+      <div class="text-sm text-slate-500">{{ cert.provider }}</div>
+      <div class="mt-1 font-semibold text-slate-900">{{ cert.title }}</div>
+      <div class="mt-1 text-sm text-slate-600">
+        <span>{{ cert.issued }}</span>
+        {% if cert.hours %} • <span>{{ cert.hours }} hours</span>{% endif %}
+      </div>
+      {% if cert.skills and cert.skills.length > 0 %}
+      <div class="mt-2 text-xs text-slate-500">Skills: {{ cert.skills | join(' • ') }}</div>
+      {% endif %}
+    </div>
+  </a>
+  {% endfor %}
+</div>

@@ -1,61 +1,71 @@
 ---
-photo: ../photos/portrait3.jpg
-title: Assoc. Prof. of Computer Science
+photo: ../photos/portrait.jpg
+title: Software Engineer
+name: Aditya Acharya
 ---
-# open PhD positions
-I am currently looking to recruit up to 4 new PhD students to work on core computer systems research. Positions are fully funded, primarily via research assistantship. Send me an email to learn more about this opportunity. 
 
-# research interests 
-While my interests have varied over the years, I am currently focusing on core computer systems research, including operating systems, concurrency, performance, and operating systems. 
+# **Hey, I'm Aditya**
 
-# teaching 
-I teach and have had a hand in the design of many of the systems classes in the CS department, such as 
-  - CS361: Computer Systems Programming
-  - CS450: Computer Networks
-  - CS461: Operating System Design and Implementation
-  - CS463: Systems Performance and Concurrent Computing
+I'm a software engineer specializing in containerized backend systems and AI-enabled applications. I build Flask-based APIs, React dashboards, and agentic AI solutions. I have experience with graph-driven systems, data visualization, and financial AI. Currently pursuing my Master's in Computer Science at UIC.
 
-  as well as *CS294: Unix Terminal Bootcamp*. I see teaching as the most important part of my job, and thus I spend a great deal of time and effort on my classes. In return, I get high marks on [RateMyProfessors](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1233589) and have received some pretty nice teaching awards such as the [Teaching Recognition Program Award](https://faculty.uic.edu/awards/trp/pastwinners/) (2014), and the [UIC Award for Excellence in Teaching](https://faculty.uic.edu/awards/recognition/aet/aet-recipients/) (2022).  
- 
-# advisees 
+---
 
-I am currently advising five PhD students:
+# connect with me
 
- - [Nilanjana Basu](https://www.linkedin.com/in/nilanjana-basu-99027959/)
- - [Ben Baenen](https://www.linkedin.com/in/ben-baenen-3951a7125/)
- - [Noaman Ahmad](https://www.linkedin.com/in/noaman-ahmad/)
- - [Chen Chen](https://www.linkedin.com/in/chen-chen-7b51a59a/)
- - [Wenshao Zhong](https://www.linkedin.com/in/wenshao-zhong-264852118/)
+<div style="display: flex; gap: 12px; margin: 32px 0; flex-wrap: wrap;">
+  <a href="mailto:aditya.acharya2606@gmail.com" style="flex: 1; min-width: 200px; padding: 12px 20px; border-radius: 8px; text-align: center; text-decoration: none; color: white; font-weight: 600; background: linear-gradient(135deg, #3b82f6 0%, #06b6d4 100%); border: 2px solid #3b82f6;">✉️ Send an email</a>
+  <a href="https://www.linkedin.com/in/adityaacharya26/" target="_blank" style="flex: 1; min-width: 200px; padding: 12px 20px; border: 2px solid #06b6d4; border-radius: 8px; text-align: center; text-decoration: none; color: #001e62; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 8px;"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.225 0z"/></svg> LinkedIn</a>
+  <a href="https://github.com/aacha26-uic" target="_blank" style="flex: 1; min-width: 200px; padding: 12px 20px; border: 2px solid #8b5cf6; border-radius: 8px; text-align: center; text-decoration: none; color: #001e62; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 8px;"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v 3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg> GitHub</a>
+  <a href="/photos/resume.pdf" download="Aditya Acharya Resume.pdf" style="flex: 1; min-width: 200px; padding: 12px 20px; border: 2px solid #06b6d4; border-radius: 8px; text-align: center; text-decoration: none; color: #001e62; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 8px;">📄 Download Resume</a>
+</div>
 
- Graduated PhD advisees include:
+---
 
- - [Sepideh Roghanchi](https://www.linkedin.com/in/sepideh-roghanchi/)
- - [Timothy Merrifield](https://www.linkedin.com/in/tim-merrifield-33b85b9/)
- - [Yanzi Jin](https://www.linkedin.com/in/yanzi-jin-112a3137/)
- - [ABM Musa](https://www.linkedin.com/in/abmmusa/)
- - [Tomas Gerlich](https://www.linkedin.com/in/tomas-gerlich/)
- - [James Biagioni](https://www.linkedin.com/in/jamesbiagioni/)
+# education
 
- --- 
+**Master of Science in Computer Science**  
+University of Illinois, Chicago | May 2024 - May 2026  
+*CGPA: 3.8*
 
-# mixed bag of goodies
+**Bachelor of Engineering, Computer Science**  
+SVKM Narsee Monjee Institute of Management and Studies | May 2020 - May 2024  
+*Specialization: Artificial Intelligence | CGPA: 3.67*
 
-My [North American English](../english) tips for recent arrivals from India, Pakistan and Bangladesh. A morbidly fascinating history of [UIC's campus architecture](https://advance.uic.edu/news-stories/the-netsch-campus-exploring-the-evolution-of-uics-architecture/). If you're a UIC faculty member and want a web page just like mine, I made the for this web page available [on github](https://github.com/bitslab/jakob_webpage). Just fork the repo, edit the contents, and you're good to go. 
+---
 
-# about me 
-I grew up in Sweden, and I have three children together with my wife [Natasha Devroye](http://devroye.lab.uic.edu), who is also a professor at UIC. When I am not working on playing with the kids, I enjoy long trips to far-away destinations, tending my extensive edible garden, reading science fiction and [churning credit cards](https://www.doctorofcredit.com/introduction-credit-card-churning/) for free business class tickets. 
+# technical skills
 
-# contact info 
-<a name="contact"></a>
-_I am on sabbatical leave until Aug 2023, and you will not be likely find me on campus._
+**Languages:** Python, JavaScript, TypeScript, C/C++
 
-Other times, my office is in **1309 SEO**, one flight of stairs up from where the SEO elevator stops. My lab is next door, in **1300 SEO**. My office phone number is (312) 996-0481, but 
-I am best reached by email, at **jakob@uic.edu**. 
+**Backend & Data:** Flask, Node.js, MongoDB, SQL, PostgreSQL, Docker, AWS, GCP
 
-# resume
-  I have been a professor at **UIC** since 2009. Before that, I spent two years at **MIT CSAIL** as a postdoc with Hari Balakrishnan and Samuel Madden.
-  I received my Ph.D. from **UC Riverside** in 2006, where my advisor was Michalis Faloutsos. 
-  Before that, I spent a few years in various software startups, after receiving my BS/MS degree from the Royal Institute of Technology (**KTH**) in Sweden. 
+**Frontend:** React, D3.js, Three.js, Figma
 
-# publications 
-You'll find a complete list of my publications on [Google Scholar](https://scholar.google.com/citations?user=kLUW0psAAAAJ&hl=en).
+**AI/ML:** TensorFlow, PyTorch, OpenAI API, Feature Selection, CNN
+
+**Tools:** Git, GitHub, VS Code, Postman, Tableau, PowerBI, Linux
+
+---
+
+# experience
+
+## Delta Labs AI — Software Engineering Intern
+*Nashville, TN | May 2025 - Dec 2025*
+
+- Containerized backend services using Docker, cutting environment setup time from hours to <15 minutes
+- Designed and deployed Flask-based simulation APIs for a graph-driven supply chain system, supporting 100+ nodes per run
+- Implemented state introspection pipeline to simulate 1,000+ discrete timesteps per scenario
+- Built React + D3.js visual analytics dashboards with 10+ interactive views, reducing manual analysis time by 40%
+- Prototyped an agentic AI chatbot mapping natural-language queries to backend simulations
+
+## Kotak Securities — AI System Design & Product Intern
+*Mumbai, India | Dec 2023 - Jun 2024*
+
+- Evaluated 8+ competitor stock trading chatbots with 50+ NLP query permutations
+- Designed end-to-end agentic AI chatbot architecture defining 5+ system modules for robustness
+- Specified error-handling logic for 10+ edge cases, reducing high-risk financial responses by ~30%
+- Translated compliance risks into AI guardrails with improved transparency and user trust
+
+---
+
+**Chicago, IL** | +1 (630) 461-0229 

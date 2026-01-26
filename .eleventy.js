@@ -7,7 +7,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ './_tmp/style.css': './style.css' })
   eleventyConfig.addPassthroughCopy('./*.svg')
   eleventyConfig.addPassthroughCopy('./*.html')
-  eleventyConfig.addPassthroughCopy('./photos/*.jpg')
+  // Copy all assets from photos (images, PDFs, etc.)
+  eleventyConfig.addPassthroughCopy('./photos/')
+  // Copy all certificate images
+  eleventyConfig.addPassthroughCopy('./certificates/')
+  // Copy all publication images
+  eleventyConfig.addPassthroughCopy('./publications/')
 
   eleventyConfig.addShortcode('version', function () {
     return now
