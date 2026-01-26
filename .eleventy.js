@@ -13,6 +13,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./certificates/')
   // Copy all publication images
   eleventyConfig.addPassthroughCopy('./publications/')
+  // Copy all project images
+  eleventyConfig.addPassthroughCopy('./projects/')
 
   eleventyConfig.addShortcode('version', function () {
     return now
