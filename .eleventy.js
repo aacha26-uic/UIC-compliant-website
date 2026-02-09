@@ -11,6 +11,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./photos/')
   // Copy all certificate images
   eleventyConfig.addPassthroughCopy('./certificates/')
+  // Copy image folder (includes favicon)
+  eleventyConfig.addPassthroughCopy('./image/')
   // Copy all publication images
   eleventyConfig.addPassthroughCopy('./publications/')
   // Copy all project images
