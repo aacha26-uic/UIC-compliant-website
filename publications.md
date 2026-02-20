@@ -150,7 +150,7 @@ Research papers and academic publications.
       <div class="text-sm text-slate-600 mb-2">
         <div class="mb-1"><strong>Authors:</strong> Aditya Acharya (Chapter 1)</div>
         <div class="mb-1"><strong>Published:</strong> 2026</div>
-        <div><strong>Department:</strong> Electronics & Telecommunication Engineering, UIC</div>
+        <div><strong>Department:</strong> Electronics & Telecommunication Engineering, SVKM NMIMS University</div>
       </div>
       <div class="mt-3 text-xs text-slate-500">
         <strong>Abstract:</strong> Integrates real-time ingredient detection using MobileNet SSD v2, intelligent recipe recommendations via machine learning algorithms, and immersive AR cooking assistance. Addresses the gap in comprehensive cooking platforms by combining ingredient identification accuracy, personalized recipe suggestions, and step-by-step AR guidance for an enhanced culinary experience.
